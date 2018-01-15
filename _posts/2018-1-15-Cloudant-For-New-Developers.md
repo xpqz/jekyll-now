@@ -3,8 +3,6 @@ layout: post
 title: Guidelines for how to use Cloudant effectively as a developer
 ---
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
 _Audience: software developers set to use Cloudant in a project, but with little
 Cloudant-specific experience._
 
